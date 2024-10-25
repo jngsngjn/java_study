@@ -12,6 +12,9 @@ public class Person implements Comparable<Person> {
 
     @Override
     public int compareTo(Person person) {
+        if (person == null) {
+            throw new NullPointerException("Compared person is null");
+        }
         return Integer.compare(this.age, person.age);
     }
 }
