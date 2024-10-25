@@ -7,7 +7,7 @@ build/
 .idea/misc.xml
 .idea/vcs.xml
 *.hprof
-gradle.xml
+.idea/gradle.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
