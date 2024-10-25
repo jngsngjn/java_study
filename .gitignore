@@ -7,6 +7,7 @@ build/
 .idea/misc.xml
 .idea/vcs.xml
 *.hprof
+encodings.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
