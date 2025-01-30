@@ -1,4 +1,4 @@
-package design.patterns.template_callback;
+package design_patterns.template_callback;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

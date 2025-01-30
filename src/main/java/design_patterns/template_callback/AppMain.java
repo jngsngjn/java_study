@@ -1,4 +1,4 @@
-package design.patterns.template_callback;
+package design_patterns.template_callback;
 
 public class AppMain {
     public static void main(String[] args) {

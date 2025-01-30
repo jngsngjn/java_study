@@ -1,4 +1,4 @@
-package design.patterns.strategy;
+package design_patterns.strategy;
 
 import lombok.RequiredArgsConstructor;
 

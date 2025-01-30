@@ -1,4 +1,4 @@
-package design.patterns.strategy;
+package design_patterns.strategy;
 
 // Strategy 인터페이스 정의
 public interface PaymentStrategy {

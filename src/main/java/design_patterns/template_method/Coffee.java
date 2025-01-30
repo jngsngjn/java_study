@@ -1,4 +1,4 @@
-package design.patterns.template_method;
+package design_patterns.template_method;
 
 // 커피 클래스
 public class Coffee extends Beverage {

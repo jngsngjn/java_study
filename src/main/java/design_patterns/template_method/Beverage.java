@@ -1,4 +1,4 @@
-package design.patterns.template_method;
+package design_patterns.template_method;
 
 public abstract class Beverage {
 
