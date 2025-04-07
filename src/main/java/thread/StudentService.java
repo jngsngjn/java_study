@@ -14,7 +14,7 @@ public class StudentService {
         return studentService;
     }
 
-    private ThreadLocal<String> name = new ThreadLocal<>();
+    private final ThreadLocal<String> name = new ThreadLocal<>();
 
     public void setName(String name) {
         System.out.println(Thread.currentThread().getName() + "setName()" + name);
