@@ -26,7 +26,7 @@ public class InterruptTest2 {
                     System.out.println("Worker 스레드 깨어남!");
                 } catch (InterruptedException e) {
                     System.out.println("Worker 스레드 인터럽트 신호 받음!");
-//                    Thread.currentThread().interrupt();
+                    Thread.currentThread().interrupt();
                 }
             }
             System.out.println("Worker 스레드 종료");
